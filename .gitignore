@@ -1,5 +1,27 @@
+# Virtual environment
 venv/
+
+# PyCharm & VSCode settings
+.idea/
+.vscode/
+
+# Logs
+logs/
+
+# Python cache files
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+*.pyo
+
+# Build and egg info
+*.egg-info/
+build/
+dist/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Temporary or test files
+*.log
+git
